@@ -1,4 +1,4 @@
-# ₿ Bitcoin Time-Series Forecasting — LSTM Encoder–Decoder with Attention
+# Bitcoin Time-Series Forecasting — LSTM Encoder–Decoder with Attention
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
@@ -24,7 +24,7 @@ pip install -r requirements.txt
 jupyter notebook bitcoin_forecasting.ipynb
 ```
 
-## 👤 Author
+## Author
 
-**Aldo Maretra Putra** — Astronomy student & ML practitioner
-📧 aldomaretraputra7@gmail.com · 🤗 [aldomrtr](https://huggingface.co/aldomrtr) · 🐙 [AllsHub](https://github.com/AllsHub)
+**Aldo Maretra Putra** — Astronomy undergraduate & ML/AI engineer
+[LinkedIn](https://linkedin.com/in/aldomrtr) · [GitHub](https://github.com/AllsHub)
